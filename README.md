@@ -46,7 +46,7 @@ sock.use(function (data) {
 ```js
 sock.use(middleshoe.jsonParser());
 sock.use(function (data) {
-  
+  console.log(data); // {hello: "world"}
 });
 ```
 
