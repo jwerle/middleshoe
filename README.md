@@ -1,7 +1,7 @@
 middleshoe
 ===
 
-allow for middle ware with [shoe](https://github.com/substack/shoe) or anything that emits a 'data' event much like [connect](https://github.com/senchalabs/connect)
+allow for middle ware with [shoe](https://github.com/substack/shoe) or streams
 
 ## install
 
